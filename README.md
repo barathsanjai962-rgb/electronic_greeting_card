@@ -68,7 +68,7 @@ It is intended for celebratory occasions such as graduations, career promotions,
 
 # **Results**
 
-![Result](result.jpg)
+![Result](Result.jpg)
 
 # **Notes**
 
